@@ -6,4 +6,4 @@ Identity là một module nhận dạng danh tính ký thuật số  được m�
 
 ## Quy trình xác nhận
 1. Người dùng gửi thông tin nhận dạng danh tính tới tổ chức chứng thực.
-2. Tổ chức chứng thực xem xét thông tin và tiến hành chứng thực.
+2. Tổ chức chứng thực xem xét thông tin và tiến hành cấp chứng nhận trên ichain blockchain.
