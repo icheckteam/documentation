@@ -1,4 +1,4 @@
-<h1>Nhận dạng danh tính ký thuật số (Identity)</h1>
+<h1>Nhận dạng danh tính kỹ thuật số (Identity)</h1>
 
 ### Giới thiệụ
 
