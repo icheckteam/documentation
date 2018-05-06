@@ -10,4 +10,4 @@ Identity là một module nhận dạng danh tính kỹ thuật số  được m
 
 
 
-![claim workflow](../../vi/images/claim_workflow.jpg)
+![claim workflow](../../vi/images/claim-workflow.jpg)
