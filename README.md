@@ -17,7 +17,7 @@ Tài sản có thể kết hợp với một danh sách tài sản khác để t
 Các thuộc tính được cập nhật bởi chủ sở hữu và người giám hộ được lưu  trữ trong một danh sách thuộc tính bao gồm giá trị, thời gian và chữ ký của người báo cáo. Các thuộc tính được cập nhật ở trạng thái cuối cùng bởi vì điều này sẽ giảm tải số dữ liệu lưu trữ, và dễ dàng ghi chép thuộc tính mà hạn chế đọc và ghi chép lại toàn bộ lịch sử. 
 
 Tuy nhiên dữ liệu lịch sử cập nhật thuộc tính có thể  được phân tích và ghi chép lại ở dữ liệu phía ứng dụng bằng việc đồng bộ lại các khối và danh sách giao dịch.
-Danh tính kỹ thuật số
+### Danh tính kỹ thuật số
 Danh tính đề cập tới thông tin nhận dạng cá nhân, tổ chức, doanh nghiệp được cấp chứng chỉ số giống như chứng nhận đạt tiêu chuẩn nuôi trồng được cung cấp bởi cơ quan nhà nước, tổ chức chứng thực hoặc bên thứ 3 có khả năng xác thực danh tính. 
 
 Danh tính bao gồm một số nhận dạng duy nhất, nội dung chứng chỉ, ngày hết hạn và người nhận. 
