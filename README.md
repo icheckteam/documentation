@@ -54,4 +54,4 @@ Ichain được tích hợp trong các hệ thống quản trị doanh nghiệp 
 Ichain được tích hợp trong hệ thống thương mại điện tử nhằm giảm thiểu tối đa thời gian xác minh nguồn gốc sản phẩm của người bán, giúp người mua hiểu rõ hơn về nguồn gốc sản phẩm, dễ dàng kết nối bất kỳ đối tác vận chuyển trong mạng lưới mà không cần phải viết thêm chương trình phụ trợ.
 ### Ichain trong thiết bị điện tử
 Ichain được tích hợp trong các thiết bị điện tử để ghi chép lại toàn bộ quá trình theo dõi tài sản.
-###Ichain trong xác minh danh tính
+### Ichain trong xác minh danh tính
