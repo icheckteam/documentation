@@ -1,5 +1,5 @@
 ## Tổng quan
-Ichain là một blockchain được phát triển dựa trên Iendermint. Ichain làm cho việc triển khai, kết nối đa mạng lưới và chạy ứng dụng truy xuất chuỗi cung ứng trở nên dễ dàng hơn.
+Ichain là một blockchain được phát triển dựa trên tendermint. Ichain làm cho việc triển khai, kết nối đa mạng lưới và chạy ứng dụng truy xuất chuỗi cung ứng trở nên dễ dàng hơn.
 
 Ichain có thể được sử dụng như một mạng lưới riêng tư hoặc triển khai trên một mạng lưới công cộng.
 ## Kiến trúc ứng dụng
