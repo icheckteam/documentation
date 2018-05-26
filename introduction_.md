@@ -4,7 +4,7 @@
 - [Danh tính](#Identity)
 - [Bảo hành](#Warranty)
 - [Hóa đơn](#Invoice)
-- []
+- [Thị trường](#Market)
 ## SDK
 - [Ichain JS SDK](#Ichain-js-sdk)
 ## Ứng dụng
@@ -46,3 +46,9 @@
 ### <a name="Explorer"></a>Explorer <sup>[top⇈](#explorer)</sup>
 > Dự án này là một ứng dụng đồng bộ hóa thông tin khối, giao dịch vào trong cơ sở dữ liệu cục bộ và cung cấp Restful API cho các ứng dụng phía khách hàng. 
 - [Explorer](https://github.com/icheckteam/documentation/explorer.md)
+
+
+### <a name="Market"></a>Thị trường <sup>[top⇈](#market)</sup>
+> Ichain xây dựng một thị trường kinh doanh linh động cho phép doanh nghiệp có th
+- [Explorer](https://github.com/icheckteam/documentation/market.md)
+
