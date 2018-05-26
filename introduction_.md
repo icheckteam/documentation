@@ -49,6 +49,6 @@
 
 
 ### <a name="Market"></a>Thị trường <sup>[top⇈](#market)</sup>
-> Ichain xây dựng một thị trường kinh doanh linh động cho phép doanh nghiệp có th
+> Ichain xây dựng một thị trường kinh doanh linh động cho phép doanh nghiệp có thể mua bán các loại tài sản một cách phi tập trung.
 - [Explorer](https://github.com/icheckteam/documentation/market.md)
 
