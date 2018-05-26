@@ -2,6 +2,12 @@
 Ichain là một blockchain được phát triển dựa trên tendermint. Ichain làm cho việc triển khai, kết nối đa mạng lưới và chạy ứng dụng truy xuất chuỗi cung ứng trở nên dễ dàng hơn.
 
 Ichain có thể được sử dụng như một mạng lưới riêng tư hoặc triển khai trên một mạng lưới công cộng.
+
+### Tendermint là gì?
+Tendermint là phần mềm sao chép một cách an toàn và nhất quán trong một ứng dụng trên nhiều máy tính. An toàn có nghĩa là tendermint hoạt động ngay cả khi lên đến 1/3 máy tính không thành công theo ý muốn. Nhất quán có nghĩa là mọi máy tính không bị lỗi đêu thấy cùng một nhật ký giao dịch và tính toán cùng một trạng thái. Sao chép an toàn và nhất quán là vấn đề cơ bản trong các hệ thống phân tán.
+
+Tendermint bao gồm hai thành phần kỹ thuật chính: một công cụ đồng thuận blockchain và một giao diện ứng dụng chung. Công cụ đồng thuận, được gọi là Tendermint Core, đảm bảo rằng các giao dịch tương tự được ghi lại trên mọi máy theo cùng một thứ tự. Giao diện ứng dụng, được gọi là Giao diện BlockChain ứng dụng (ABCI), cho phép các giao dịch được xử lý bằng bất kỳ ngôn ngữ lập trình nào. Không giống như các giải pháp blockchain và đồng thuận khác, được đóng gói sẵn với các máy trạng thái được xây dựng sẵn (như cửa sổ khóa giá trị ưa thích hoặc ngôn ngữ kịch bản lạ mắt), nhà phát triển có thể sử dụng Tendermint để sao chép máy BFT của các ứng dụng được viết bằng bất kỳ ngôn ngữ lập trình nào và môi trường phát triển phù hợp với họ.
+
 ## Kiến trúc ứng dụng
 ### Tài sản
 Tài sản đại diện cho một hàng hóa đang được theo dõi bới chuỗi cung ứng. Hầu như mọi giao dịch đều tham chiếu đến số nhận dạng tài sản.
