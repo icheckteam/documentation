@@ -61,3 +61,9 @@ Ichain được tích hợp trong hệ thống thương mại điện tử nhằ
 ### Ichain trong thiết bị điện tử
 Ichain được tích hợp trong các thiết bị điện tử để ghi chép lại toàn bộ quá trình theo dõi tài sản.
 ### Ichain trong xác minh danh tính
+
+
+## Một số câu hỏi về Ichain
+1. Cách thức tham gia ICHAIN (tham gia vào mạng cộng đồng hoặc triển khai mạng lưới riêng tư như thế nào)?
+2. Chi phí?
+3. Trong chuỗi cung ứng mỗi bên tham gia với những tài sản riêng của họ đúng không?
